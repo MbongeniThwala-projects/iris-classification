@@ -1,19 +1,19 @@
-# 🌸 Iris Classification using Random Forest
+# Iris Classification using Random Forest
 
 A classic classification project using the Iris dataset, demonstrating the full ML workflow from data loading to model evaluation and feature importance analysis.
 
-## 📌 Overview
+## Overview
 
 This project builds a **Random Forest classifier** on the well-known Iris dataset. The focus extends beyond accuracy to **model interpretability** - understanding which features drive predictions, a critical skill when presenting findings to BI and analyst teams.
 
-## 🗂️ Dataset
+## Dataset
 
 - **Source:** `sklearn.datasets.load_iris` (built-in)
 - **Samples:** 150 (50 per class)
 - **Features:** Sepal length, Sepal width, Petal length, Petal width
 - **Classes:** Setosa, Versicolor, Virginica
 
-## 🔍 What This Project Covers
+## What This Project Covers
 
 - Loading and inspecting the Iris dataset
 - Splitting data into training and test sets
@@ -30,11 +30,11 @@ This project builds a **Random Forest classifier** on the well-known Iris datase
 | Pandas / NumPy | Data handling |
 | Matplotlib | Visualisation |
 
-## 📈 Results
+## Results
 
 The Random Forest classifier achieves **high predictive accuracy** on the Iris test set, with petal dimensions identified as the most informative features.
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/MbongeniThwala-projects/iris-classification.git
